@@ -18,9 +18,15 @@
 
 **1.1 OBJETIVO GENERAL**
 
+Estudiar el concepto del método de superpocición de circuitos y sus implicaciones paractica por medio de un sistema simulado, esquematico y analítico de un curcuito con mas de una fuente y varios componentes pasivos. 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.2 OBJETIVOS ESPECIFICOS**
+
+Construir un circuito y medir los voltages generados al tomar en cuenta una fuente como si esta se encontrase en corto circuito.
+
+Medir tanto voltaje como corriente en los casos necesarios y comparar los resultados tanto analiticos como paracticos de la practica.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -33,20 +39,6 @@
 * Circuito a desarrollar
 
 ![45](https://user-images.githubusercontent.com/93800511/147148692-ce09e4d6-3f21-4443-b846-2572b9353837.png)
-
-Circuito armado
-
-![12aa3bd7-e7ee-4646-b2c8-2af39e3987bc](https://user-images.githubusercontent.com/93835587/147152124-36fbc26a-55da-41e4-8375-365a16c60b30.jpg)
-
-Medición del circuito (voltaje y corriente)
-
-![33f7fa8f-310a-43d6-88c4-780d8b71b7fb](https://user-images.githubusercontent.com/93835587/147152021-ec52cc86-6c29-4a8b-8ccc-70e5446a64a8.jpg)
-
-
-Medición del circuito A
-
-![image](https://user-images.githubusercontent.com/93835587/147151665-1bebe9ae-7510-41fa-bb37-b2fc7d30cd71.png)
-
 
 * Esquemático del circuito 
 
@@ -85,6 +77,8 @@ conclusiones.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.7 .CONCLUCIONES**
+
+En conclucion el metodo de superposicion para el análisis de los circuitos es comprobable por medio de esta practica donde la precencia de dos fuentes de poder, así comprobando que el voltaje o corriente dentro de este tipo de circuitos se puede encontrar aislando una de las corrientes y calculando los componentes individualmente con la otra fuente igualada a cero. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
