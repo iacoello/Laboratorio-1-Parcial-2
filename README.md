@@ -50,12 +50,11 @@ Circiuito Armado
 
 Circuito armado 
 
-![image](https://user-images.githubusercontent.com/93835587/147166215-692cb925-4c57-4d91-a5d3-50bba547d08b.png)
-
 
 Mediciones del circuito
 
-![33f7fa8f-310a-43d6-88c4-780d8b71b7fb](https://user-images.githubusercontent.com/93835587/147154017-4c69d67c-502d-4f4b-9830-4a7b2b319f4b.jpg)
+![image](https://user-images.githubusercontent.com/93835587/147166275-387c44a7-804f-443a-80ef-e2cae2a4781c.png)
+
 
 Mediciones en el circuito cuando el voltaje de V2 es 0
 
