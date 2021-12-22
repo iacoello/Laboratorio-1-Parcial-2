@@ -50,7 +50,8 @@ Circiuito Armado
 
 Circuito armado 
 
-![12aa3bd7-e7ee-4646-b2c8-2af39e3987bc](https://user-images.githubusercontent.com/93835587/147153965-81358da5-be44-47dc-910b-e8c138d18ef4.jpg)
+![image](https://user-images.githubusercontent.com/93835587/147166215-692cb925-4c57-4d91-a5d3-50bba547d08b.png)
+
 
 Mediciones del circuito
 
