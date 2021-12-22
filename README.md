@@ -65,6 +65,7 @@ Mediciones del circuito cuando el voltaje de V1 es 0
 ![image](https://user-images.githubusercontent.com/93835587/147160075-c2be73e0-dedb-478f-bbc8-d3200239bbd6.png)
 
 Procedimiento de analisis analitico
+
 <img src="https://latex.codecogs.com/svg.image?\\\frac{1}{Req}=&space;\frac{\left&space;(&space;1&plus;2.2&space;\right&space;)}{\left&space;(&space;1\times&space;2.2&space;\right&space;)}\\\frac{1}{Req}=&space;0.68k\mho&space;" title="\\\frac{1}{Req}= \frac{\left ( 1+2.2 \right )}{\left ( 1\times 2.2 \right )}\\\frac{1}{Req}= 0.68k\mho " />
 
 Encontramos las ecuaciones de cada malla 
