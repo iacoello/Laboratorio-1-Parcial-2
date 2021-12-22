@@ -60,6 +60,10 @@ conclusiones.
 
 **1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
+Circuito armado
+
+![image](https://user-images.githubusercontent.com/93835587/147150573-41f0fea9-0a1c-4e9d-9629-14b96a4fbf14.png)
+
 Medición del circuito (voltaje y corriente)
 
 ![image](https://user-images.githubusercontent.com/93835587/147150024-5400d1d7-0e13-4e54-ab66-678504a6bc04.png)
