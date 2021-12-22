@@ -56,7 +56,11 @@ Mediciones del circuito
 
 ![33f7fa8f-310a-43d6-88c4-780d8b71b7fb](https://user-images.githubusercontent.com/93835587/147154017-4c69d67c-502d-4f4b-9830-4a7b2b319f4b.jpg)
 
-Mediciones del circuito cuando el voltaje de VA es 0
+Mediciones en el circuito cuando el voltaje de V2 es 0
+
+![image](https://user-images.githubusercontent.com/93835587/147160500-345cacff-354b-4c37-a968-74f45de09775.png)
+
+Mediciones del circuito cuando el voltaje de V1 es 0
 
 ![image](https://user-images.githubusercontent.com/93835587/147160075-c2be73e0-dedb-478f-bbc8-d3200239bbd6.png)
 
