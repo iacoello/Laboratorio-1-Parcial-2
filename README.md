@@ -47,6 +47,11 @@ Medir tanto voltaje como corriente en los casos necesarios y comparar los result
 * Circiuito Armado 
 ![95](https://user-images.githubusercontent.com/93800511/147153300-d8392b79-6747-4af6-a266-dc9b7e05436b.jpg)
 
+Mediciones del circuito B ( Voltaje y corriente)
+
+![image](https://user-images.githubusercontent.com/93835587/147153772-38521258-cb8b-480d-9649-56c6ffe5fb08.png)
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.4 EXPLICACIÓN DE PROCEDIMIENTO**
