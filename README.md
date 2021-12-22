@@ -34,6 +34,10 @@
 
 ![45](https://user-images.githubusercontent.com/93800511/147148692-ce09e4d6-3f21-4443-b846-2572b9353837.png)
 
+Medición del circuito (voltaje y corriente)
+
+blob:https://web.whatsapp.com/33f7fa8f-310a-43d6-88c4-780d8b71b7fb
+
 Medición del circuito A
 
 ![image](https://user-images.githubusercontent.com/93835587/147151665-1bebe9ae-7510-41fa-bb37-b2fc7d30cd71.png)
