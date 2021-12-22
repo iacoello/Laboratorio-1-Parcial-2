@@ -34,9 +34,14 @@
 
 ![45](https://user-images.githubusercontent.com/93800511/147148692-ce09e4d6-3f21-4443-b846-2572b9353837.png)
 
+Circuito armado
+
+![12aa3bd7-e7ee-4646-b2c8-2af39e3987bc](https://user-images.githubusercontent.com/93835587/147152124-36fbc26a-55da-41e4-8375-365a16c60b30.jpg)
+
 Medición del circuito (voltaje y corriente)
 
-blob:https://web.whatsapp.com/33f7fa8f-310a-43d6-88c4-780d8b71b7fb
+![33f7fa8f-310a-43d6-88c4-780d8b71b7fb](https://user-images.githubusercontent.com/93835587/147152021-ec52cc86-6c29-4a8b-8ccc-70e5446a64a8.jpg)
+
 
 Medición del circuito A
 
