@@ -56,15 +56,9 @@ Mediciones del circuito
 
 ![33f7fa8f-310a-43d6-88c4-780d8b71b7fb](https://user-images.githubusercontent.com/93835587/147154017-4c69d67c-502d-4f4b-9830-4a7b2b319f4b.jpg)
 
-Mediciones del circuito A ( Voltaje)
+Mediciones del circuito cuando el voltaje de VA es 0
 
-![e34cb3b1-55b3-40a4-9aa7-594adf17e537](https://user-images.githubusercontent.com/93835587/147154101-3ce59266-e0f8-46ec-bfd1-3da6aeb3bfee.jpg)
-
-
-Mediciones del circuito B ( Voltaje y corriente)
-
-![image](https://user-images.githubusercontent.com/93835587/147154081-d022af53-6c4e-41d8-b58f-9c316c726014.png)
-
+![image](https://user-images.githubusercontent.com/93835587/147160075-c2be73e0-dedb-478f-bbc8-d3200239bbd6.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
