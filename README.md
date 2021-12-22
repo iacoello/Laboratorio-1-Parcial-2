@@ -44,7 +44,8 @@ Medir tanto voltaje como corriente en los casos necesarios y comparar los result
 
 ![78](https://user-images.githubusercontent.com/93800511/147150848-dee73b58-4653-4076-b92d-3787d8957f14.png)
 
-* Circiuito Armado 
+Circiuito Armado 
+
 ![95](https://user-images.githubusercontent.com/93800511/147153300-d8392b79-6747-4af6-a266-dc9b7e05436b.jpg)
 
 Circuito armado 
