@@ -26,14 +26,35 @@
 
 **1.3 MARCO TEÓRICO**
 
+* Materiales a utilizar
+
+![45](https://user-images.githubusercontent.com/93800511/147148540-4c625ba5-a153-406e-9326-11f1f0a0effe.png)
+
+* Circuito a desarrollar
+
+![45](https://user-images.githubusercontent.com/93800511/147148692-ce09e4d6-3f21-4443-b846-2572b9353837.png)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.4 EXPLICACIÓN DE PROCEDIMIENTO**
 
-Circuito armado
+1. Arme el circuito que se muestra en la figura 4.1.
 
-![image](https://user-images.githubusercontent.com/93835587/147148642-548751ac-21c5-4dd4-8f17-a8d9b6d6fba1.png)
+2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando
+tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
+el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
+3. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente
+IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
+IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+5. Verifique el cumplimiento del Teorema de Superposición y compare los
+resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
+conclusiones.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
