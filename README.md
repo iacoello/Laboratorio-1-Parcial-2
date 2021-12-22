@@ -47,9 +47,22 @@ Medir tanto voltaje como corriente en los casos necesarios y comparar los result
 * Circiuito Armado 
 ![95](https://user-images.githubusercontent.com/93800511/147153300-d8392b79-6747-4af6-a266-dc9b7e05436b.jpg)
 
+Circuito armado 
+
+![12aa3bd7-e7ee-4646-b2c8-2af39e3987bc](https://user-images.githubusercontent.com/93835587/147153965-81358da5-be44-47dc-910b-e8c138d18ef4.jpg)
+
+Mediciones del circuito
+
+![33f7fa8f-310a-43d6-88c4-780d8b71b7fb](https://user-images.githubusercontent.com/93835587/147154017-4c69d67c-502d-4f4b-9830-4a7b2b319f4b.jpg)
+
+Mediciones del circuito A
+
+![e34cb3b1-55b3-40a4-9aa7-594adf17e537](https://user-images.githubusercontent.com/93835587/147154101-3ce59266-e0f8-46ec-bfd1-3da6aeb3bfee.jpg)
+
+
 Mediciones del circuito B ( Voltaje y corriente)
 
-![image](https://user-images.githubusercontent.com/93835587/147153772-38521258-cb8b-480d-9649-56c6ffe5fb08.png)
+![image](https://user-images.githubusercontent.com/93835587/147154081-d022af53-6c4e-41d8-b58f-9c316c726014.png)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
