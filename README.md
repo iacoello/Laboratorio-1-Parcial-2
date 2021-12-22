@@ -34,6 +34,11 @@
 
 ![45](https://user-images.githubusercontent.com/93800511/147148692-ce09e4d6-3f21-4443-b846-2572b9353837.png)
 
+Medición del circuito A
+
+![image](https://user-images.githubusercontent.com/93835587/147151665-1bebe9ae-7510-41fa-bb37-b2fc7d30cd71.png)
+
+
 * Esquemático del circuito 
 
 ![78](https://user-images.githubusercontent.com/93800511/147150848-dee73b58-4653-4076-b92d-3787d8957f14.png)
