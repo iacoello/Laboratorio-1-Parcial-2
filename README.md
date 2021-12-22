@@ -64,6 +64,13 @@ Mediciones del circuito cuando el voltaje de V1 es 0
 
 ![image](https://user-images.githubusercontent.com/93835587/147160075-c2be73e0-dedb-478f-bbc8-d3200239bbd6.png)
 
+Procedimiento de analisis analitico
+<img src="https://latex.codecogs.com/svg.image?\\\frac{1}{Req}=&space;\frac{\left&space;(&space;1&plus;2.2&space;\right&space;)}{\left&space;(&space;1\times&space;2.2&space;\right&space;)}\\\frac{1}{Req}=&space;0.68k\mho&space;" title="\\\frac{1}{Req}= \frac{\left ( 1+2.2 \right )}{\left ( 1\times 2.2 \right )}\\\frac{1}{Req}= 0.68k\mho " />
+
+Encontramos las ecuaciones de cada malla 
+
+<img src="https://latex.codecogs.com/svg.image?\\MALLA~1\\12&plus;I_{2}-0.47\left&space;(&space;I_{1}&plus;I_{2}&space;\right&space;)=&space;0\\-0.47I_{1}&space;&plus;0.47I_{2}\begin{pmatrix}Ecuacion~1\end{pmatrix}\\&space;MALLA~2\\-0.82I_{2}&space;-0.68I_{2}-0.47\left&space;(&space;I_{1}-I_{2}&space;\right&space;)=&space;0\\&space;0.47I_{1}-1.97I_{2}=&space;0\begin{pmatrix}Ecuacion~2\end{pmatrix}" title="\\MALLA~1\\12+I_{2}-0.47\left ( I_{1}+I_{2} \right )= 0\\-0.47I_{1} +0.47I_{2}\begin{pmatrix}Ecuacion~1\end{pmatrix}\\ MALLA~2\\-0.82I_{2} -0.68I_{2}-0.47\left ( I_{1}-I_{2} \right )= 0\\ 0.47I_{1}-1.97I_{2}= 0\begin{pmatrix}Ecuacion~2\end{pmatrix}" />
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.4 EXPLICACIÓN DE PROCEDIMIENTO**
