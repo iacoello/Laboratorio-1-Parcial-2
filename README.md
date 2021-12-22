@@ -72,6 +72,9 @@ Encontramos las ecuaciones de cada malla
 
 <img src="https://latex.codecogs.com/svg.image?\\MALLA~1\\12&plus;I_{2}-0.47\left&space;(&space;I_{1}&plus;I_{2}&space;\right&space;)=&space;0\\-0.47I_{1}&space;&plus;0.47I_{2}\begin{pmatrix}Ecuacion~1\end{pmatrix}\\&space;MALLA~2\\-0.82I_{2}&space;-0.68I_{2}-0.47\left&space;(&space;I_{1}-I_{2}&space;\right&space;)=&space;0\\&space;0.47I_{1}-1.97I_{2}=&space;0\begin{pmatrix}Ecuacion~2\end{pmatrix}" title="\\MALLA~1\\12+I_{2}-0.47\left ( I_{1}+I_{2} \right )= 0\\-0.47I_{1} +0.47I_{2}\begin{pmatrix}Ecuacion~1\end{pmatrix}\\ MALLA~2\\-0.82I_{2} -0.68I_{2}-0.47\left ( I_{1}-I_{2} \right )= 0\\ 0.47I_{1}-1.97I_{2}= 0\begin{pmatrix}Ecuacion~2\end{pmatrix}" />
 
+Obtenemos el siguiente sistema de ecuaciones 
+
+<img src="https://latex.codecogs.com/svg.image?\\\left\{\begin{matrix}-0.47I_{1}&plus;&space;0.47I_{2}=&space;-12\\0.47I_{1}-1.97I_{2}=&space;0\end{matrix}\right." title="\\\left\{\begin{matrix}-0.47I_{1}+ 0.47I_{2}= -12\\0.47I_{1}-1.97I_{2}= 0\end{matrix}\right." />
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.4 EXPLICACIÓN DE PROCEDIMIENTO**
