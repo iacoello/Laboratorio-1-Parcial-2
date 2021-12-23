@@ -74,6 +74,10 @@ Encontramos la resistencia equivalente
 
 <img src="https://latex.codecogs.com/svg.image?~\\\frac{1}{Req}=&space;\frac{\left&space;(&space;1&plus;2.2&space;\right&space;)}{\left&space;(&space;&space;&space;1\times&space;2.2\right&space;)}\\Req=&space;0.68k\mho&space;&space;" title="~\\\frac{1}{Req}= \frac{\left ( 1+2.2 \right )}{\left ( 1\times 2.2\right )}\\Req= 0.68k\mho " />
 
+Obtenemos el siguiente circuito
+
+![image](https://user-images.githubusercontent.com/93835587/147171594-06806fb2-b7c7-4702-a6d3-3a7f2549224e.png)
+
 Encontramos las ecuaciones de cada malla 
 
 <img src="https://latex.codecogs.com/svg.image?\\MALLA~1\\12&plus;I_{2}-0.47\left&space;(&space;I_{1}&plus;I_{2}&space;\right&space;)=&space;0\\-0.47I_{1}&space;&plus;0.47I_{2}=&space;-12\begin{pmatrix}&space;Ecuacion~1\end{pmatrix}\\&space;MALLA~2\\-0.82I_{2}&space;-0.68I_{2}-0.47\left&space;(&space;I_{1}-I_{2}&space;\right&space;)=&space;0\\&space;0.47I_{1}-1.97I_{2}=&space;0\begin{pmatrix}Ecuacion~2\end{pmatrix}" title="\\MALLA~1\\12+I_{2}-0.47\left&space;(&space;I_{1}+I_{2}&space;\right&space;)=&space;0\\-0.47I_{1}&space;+0.47I_{2}= -12\begin{pmatrix} Ecuacion~1\end{pmatrix}\\&space;MALLA~2\\-0.82I_{2}&space;-0.68I_{2}-0.47\left&space;(&space;I_{1}-I_{2}&space;\right&space;)=&space;0\\&space;0.47I_{1}-1.97I_{2}=&space;0\begin{pmatrix}Ecuacion~2\end{pmatrix}" />
