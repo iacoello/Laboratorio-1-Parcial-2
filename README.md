@@ -68,8 +68,7 @@ Procedimiento de analisis analitico
 
  Primero reemplazamos la fuente de 20v
  
- ![image](https://user-images.githubusercontent.com/93835587/147170915-2c650457-0761-4b13-b763-124aaa4694b3.png)
-
+ ![image](https://user-images.githubusercontent.com/93835587/147170994-910734ac-0654-49d8-aed9-f6681c1806bc.png)
 
 Encontramos la resistencia equivalente
 
