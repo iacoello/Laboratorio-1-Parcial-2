@@ -141,7 +141,16 @@ Redibujamos el circuito
 
 Tabla de datos para VA
 
+Tabla 4.1. Medición de voltaje aplicando superposición.
+
 ![image](https://user-images.githubusercontent.com/93835587/147247499-14555f12-6727-46cb-9adc-13542fb18ee0.png)
+
+Tabla de datos para Ix
+
+Tabla 4.2. Medición de corriente aplicando superposición.
+
+![image](https://user-images.githubusercontent.com/93835587/147248395-d8d943af-1f84-49b5-80ff-121090397f3e.png)
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
