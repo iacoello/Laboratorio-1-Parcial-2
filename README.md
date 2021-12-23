@@ -75,6 +75,16 @@ Encontramos las ecuaciones de cada malla
 Obtenemos el siguiente sistema de ecuaciones 
 
 <img src="https://latex.codecogs.com/svg.image?\\\left\{\begin{matrix}-0.47I_{1}&plus;&space;0.47I_{2}=&space;-12\\0.47I_{1}-1.97I_{2}=&space;0\end{matrix}\right." title="\\\left\{\begin{matrix}-0.47I_{1}+ 0.47I_{2}= -12\\0.47I_{1}-1.97I_{2}= 0\end{matrix}\right." />
+
+Encontramos la I1 y la I2
+
+<img src="https://latex.codecogs.com/svg.image?~\\I_{1}=&space;I_{X}=&space;33.53mA\\I_{2}=&space;8mA" title="~\\I_{1}= I_{X}= 33.53mA\\I_{2}= 8mA" />
+
+Encontramos VA mediante la ley de Ohm
+
+<img src="https://latex.codecogs.com/svg.image?~\\I=&space;\frac{V}{R}\\V_{A}&space;=&space;I_{2}\times&space;R_{0.82}=&space;8\left&space;(&space;0.82&space;\right&space;)\\V_{A}&space;=6.56V&space;" title="~\\I= \frac{V}{R}\\V_{A} = I_{2}\times R_{0.82}= 8\left ( 0.82 \right )\\V_{A} =6.56V " />
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.4 EXPLICACIÓN DE PROCEDIMIENTO**
