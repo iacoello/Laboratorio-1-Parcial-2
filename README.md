@@ -68,7 +68,7 @@ Procedimiento de analisis analitico
 
 Encontramos la resistencia equivalente
 
-<img src="https://latex.codecogs.com/svg.image?\\\frac{1}{Req}=&space;\frac{\left&space;(&space;1&plus;2.2&space;\right&space;)}{\left&space;(&space;1\times&space;2.2&space;\right&space;)}\\\frac{1}{Req}=&space;0.68k\mho&space;" title="\\\frac{1}{Req}= \frac{\left ( 1+2.2 \right )}{\left ( 1\times 2.2 \right )}\\\frac{1}{Req}= 0.68k\mho " />
+<img src="https://latex.codecogs.com/svg.image?~\\\frac{1}{Req}=&space;\frac{\left&space;(&space;1&plus;2.2&space;\right&space;)}{\left&space;(&space;&space;&space;1\times&space;2.2\right&space;)}\\Req=&space;0.68k\mho&space;&space;" title="~\\\frac{1}{Req}= \frac{\left ( 1+2.2 \right )}{\left ( 1\times 2.2\right )}\\Req= 0.68k\mho " />
 
 Encontramos las ecuaciones de cada malla 
 
@@ -85,6 +85,10 @@ Encontramos la I1 y la I2
 Encontramos VA mediante la ley de Ohm
 
 <img src="https://latex.codecogs.com/svg.image?~\\I=&space;\frac{V}{R}\\V_{A}&space;=&space;I_{2}\times&space;R_{0.82}=&space;8\left&space;(&space;0.82&space;\right&space;)\\V_{A}&space;=6.56V&space;" title="~\\I= \frac{V}{R}\\V_{A} = I_{2}\times R_{0.82}= 8\left ( 0.82 \right )\\V_{A} =6.56V " />
+
+Realizamos el mismo procedimiento pero en este caso reemplazamos la fuente de voltaje de 12 V 
+
+<img src="https://latex.codecogs.com/svg.image?~\\\frac{1}{Req}=&space;\frac{\left&space;(&space;0.82&plus;0.47&space;\right&space;)}{\left&space;(&space;&space;&space;0.82\times&space;0.47\right&space;)}\\Req=&space;1.29k\mho&space;&space;" title="~\\\frac{1}{Req}= \frac{\left ( 0.82+0.47 \right )}{\left ( 0.82\times 0.47\right )}\\Req= 1.29k\mho " />
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
