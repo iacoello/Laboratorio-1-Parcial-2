@@ -24,7 +24,7 @@ Estudiar el concepto del método de superpocición de circuitos y sus implicacio
 
 **1.2 OBJETIVOS ESPECIFICOS**
 
-Construir un circuito y medir los voltages generados al tomar en cuenta una fuente como si esta se encontrase en corto circuito.
+Construir un circuito y medir los voltajes generados al tomar en cuenta una fuente como si esta se encontrase en corto circuito.
 
 Medir tanto voltaje como corriente en los casos necesarios y comparar los resultados tanto analiticos como paracticos de la practica.
 
