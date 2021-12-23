@@ -76,7 +76,8 @@ Encontramos la resistencia equivalente
 
 Obtenemos el siguiente circuito
 
-![image](https://user-images.githubusercontent.com/93835587/147171594-06806fb2-b7c7-4702-a6d3-3a7f2549224e.png)
+![image](https://user-images.githubusercontent.com/93835587/147172082-5b068491-8fe2-435c-82f9-423a18daa224.png)
+
 
 Encontramos las ecuaciones de cada malla 
 
