@@ -97,12 +97,11 @@ Encontramos VA mediante la ley de Ohm
 
 Realizamos el mismo procedimiento pero en este caso reemplazamos la fuente de voltaje de 12 V 
 
-<img src="https://latex.codecogs.com/svg.image?~\\\frac{1}{Req}=&space;\frac{\left&space;(&space;0.82&plus;0.47&space;\right&space;)}{\left&space;(&space;&space;&space;0.82\times&space;0.47\right&space;)}\\Req=&space;1.29k\mho&space;&space;" title="~\\\frac{1}{Req}= \frac{\left ( 0.82+0.47 \right )}{\left ( 0.82\times 0.47\right )}\\Req= 1.29k\mho " />
-
-Primero reemplazamos la fuente de 12v
- 
-
 ![image](https://user-images.githubusercontent.com/93835587/147172239-f3e2dedb-699d-4ed3-b2c8-0153e4d5ab65.png)
+
+Encontramos la resistencia equivalente
+
+<img src="https://latex.codecogs.com/svg.image?~\\\frac{1}{Req}=&space;\frac{\left&space;(&space;0.82&plus;0.47&space;\right&space;)}{\left&space;(&space;&space;&space;0.82\times&space;0.47\right&space;)}\\Req=&space;1.29k\mho&space;&space;" title="~\\\frac{1}{Req}= \frac{\left ( 0.82+0.47 \right )}{\left ( 0.82\times 0.47\right )}\\Req= 1.29k\mho " />
 
 Obtenemos el siguiente circuito
 
