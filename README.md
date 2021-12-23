@@ -97,7 +97,7 @@ Encontramos VA mediante la ley de Ohm
 
 Realizamos el mismo procedimiento pero en este caso reemplazamos la fuente de voltaje de 12 V 
 
-![image](https://user-images.githubusercontent.com/93835587/147172239-f3e2dedb-699d-4ed3-b2c8-0153e4d5ab65.png)
+![image](https://user-images.githubusercontent.com/93835587/147174272-0bf3112a-1c1b-458f-833e-ef1a2afd19d8.png)
 
 Procedemos a resolver el circuito 
 
