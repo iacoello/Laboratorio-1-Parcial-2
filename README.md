@@ -48,9 +48,6 @@ Circiuito Armado
 
 ![95](https://user-images.githubusercontent.com/93800511/147153300-d8392b79-6747-4af6-a266-dc9b7e05436b.jpg)
 
-Circuito armado 
-
-
 Mediciones del circuito
 
 ![image](https://user-images.githubusercontent.com/93835587/147166275-387c44a7-804f-443a-80ef-e2cae2a4781c.png)
@@ -63,6 +60,28 @@ Mediciones en el circuito cuando el voltaje de V2 es 0
 Mediciones del circuito cuando el voltaje de V1 es 0
 
 ![image](https://user-images.githubusercontent.com/93835587/147160075-c2be73e0-dedb-478f-bbc8-d3200239bbd6.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**1.4 EXPLICACIÓN DE PROCEDIMIENTO**
+
+1. Arme el circuito que se muestra en la figura 4.1.
+
+2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando
+tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
+el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+3. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente
+IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
+IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+5. Verifique el cumplimiento del Teorema de Superposición y compare los
+resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
+conclusiones.
 
 Procedimiento de analisis analitico
 
@@ -114,28 +133,6 @@ Redibujamos el circuito
 <img src="https://latex.codecogs.com/svg.image?\\Re\left|&space;\right|=&space;R3\left|&space;\right|R2\\RT=&space;\left&space;(&space;\frac{1}{820}&space;&plus;\frac{1}{2200}\right&space;)\\&space;RT=597.35\\Req=&space;R1&plus;RT&space;\\Req=1000&plus;&space;597.35\\Req=159.35&space;\\VA=&space;\frac{RA}{RT}\left&space;(&space;VT&space;\right&space;)&space;\\VA=\left&space;(&space;\frac{597.35}{159.35}&space;\right&space;)\left&space;(&space;20&space;\right&space;)&space;\\VA=7.47&space;" title="\\Re\left| \right|= R3\left| \right|R2\\RT= \left ( \frac{1}{820} +\frac{1}{2200}\right )\\ RT=597.35\\Req= R1+RT \\Req=1000+ 597.35\\Req=159.35 \\VA= \frac{RA}{RT}\left ( VT \right ) \\VA=\left ( \frac{597.35}{159.35} \right )\left ( 20 \right ) \\VA=7.47 " />
 
 
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**1.4 EXPLICACIÓN DE PROCEDIMIENTO**
-
-1. Arme el circuito que se muestra en la figura 4.1.
-
-2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando
-tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
-el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
-
-3. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente
-IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
-proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
-
-4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
-IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
-proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
-
-5. Verifique el cumplimiento del Teorema de Superposición y compare los
-resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
-conclusiones.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
