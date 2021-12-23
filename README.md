@@ -66,6 +66,11 @@ Mediciones del circuito cuando el voltaje de V1 es 0
 
 Procedimiento de analisis analitico
 
+ Primero reemplazamos la fuente de 20v
+ 
+ ![image](https://user-images.githubusercontent.com/93835587/147170915-2c650457-0761-4b13-b763-124aaa4694b3.png)
+
+
 Encontramos la resistencia equivalente
 
 <img src="https://latex.codecogs.com/svg.image?~\\\frac{1}{Req}=&space;\frac{\left&space;(&space;1&plus;2.2&space;\right&space;)}{\left&space;(&space;&space;&space;1\times&space;2.2\right&space;)}\\Req=&space;0.68k\mho&space;&space;" title="~\\\frac{1}{Req}= \frac{\left ( 1+2.2 \right )}{\left ( 1\times 2.2\right )}\\Req= 0.68k\mho " />
