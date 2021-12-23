@@ -32,6 +32,8 @@ Medir tanto voltaje como corriente en los casos necesarios y comparar los result
 
 **1.3 MARCO TEÓRICO**
 
+![Diagrama en blanco (4)](https://user-images.githubusercontent.com/93800511/147184271-ce008cf3-a28f-4638-9cbf-5f8badd2e48d.png)
+
 * Materiales a utilizar
 
 ![45](https://user-images.githubusercontent.com/93800511/147148540-4c625ba5-a153-406e-9326-11f1f0a0effe.png)
