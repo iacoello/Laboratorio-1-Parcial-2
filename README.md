@@ -95,13 +95,14 @@ Tabla de datos para VA
 
 Tabla 4.1. Medición de voltaje aplicando superposición.
 
-![image](https://user-images.githubusercontent.com/93835587/147247499-14555f12-6727-46cb-9adc-13542fb18ee0.png)
+![image](https://user-images.githubusercontent.com/93835587/147249980-6f84fa8c-b726-4888-b6a5-63d4c0953a34.png)
+
 
 Tabla de datos para Ix
 
 Tabla 4.2. Medición de corriente aplicando superposición.
 
-![image](https://user-images.githubusercontent.com/93835587/147248395-d8d943af-1f84-49b5-80ff-121090397f3e.png)
+![image](https://user-images.githubusercontent.com/93835587/147250025-a0a36357-f0cf-47b0-90e4-e21f9b567fc2.png)
 
 
 Procedimiento de analisis analitico
