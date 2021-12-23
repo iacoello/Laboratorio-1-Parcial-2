@@ -99,11 +99,9 @@ Realizamos el mismo procedimiento pero en este caso reemplazamos la fuente de vo
 
 ![image](https://user-images.githubusercontent.com/93835587/147172239-f3e2dedb-699d-4ed3-b2c8-0153e4d5ab65.png)
 
-Encontramos la resistencia equivalente
+Procedemos a resolver el circuito 
 
-<img src="https://latex.codecogs.com/svg.image?~\\\frac{1}{Req}=&space;\frac{\left&space;(&space;0.82&plus;0.47&space;\right&space;)}{\left&space;(&space;&space;&space;0.82\times&space;0.47\right&space;)}\\Req=&space;1.29k\mho&space;&space;" title="~\\\frac{1}{Req}= \frac{\left ( 0.82+0.47 \right )}{\left ( 0.82\times 0.47\right )}\\Req= 1.29k\mho " />
-
-Obtenemos el siguiente circuito
+<img src="https://latex.codecogs.com/svg.image?\\Re\left|&space;\right|=&space;R3\left|&space;\right|R2\\RT=&space;\left&space;(&space;\frac{1}{820}&space;&plus;\frac{1}{2200}\right&space;)\\&space;RT=597.35\\Req=&space;R1&plus;RT&space;\\Req=1000&plus;&space;597.35\\Req=159.35&space;\\VA=&space;\frac{RA}{RT}\left&space;(&space;VT&space;\right&space;)&space;\\VA=\left&space;(&space;\frac{597.35}{159.35}&space;\right&space;)\left&space;(&space;20&space;\right&space;)&space;\\VA=7.47&space;" title="\\Re\left| \right|= R3\left| \right|R2\\RT= \left ( \frac{1}{820} +\frac{1}{2200}\right )\\ RT=597.35\\Req= R1+RT \\Req=1000+ 597.35\\Req=159.35 \\VA= \frac{RA}{RT}\left ( VT \right ) \\VA=\left ( \frac{597.35}{159.35} \right )\left ( 20 \right ) \\VA=7.47 " />
 
 
 
